@@ -40,7 +40,7 @@ header {
     padding-left: 5%;
 }
 
-.mainTitle {
+.MainTitle {
     font-size: 51px;
     text-transform: uppercase;
     margin-top: 4%;
@@ -51,7 +51,7 @@ header {
     font-size: 19px;
 }
 
-.optionsButtons {
+.optionButtons {
     margin-top: 3%;
 }
 
